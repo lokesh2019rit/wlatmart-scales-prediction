@@ -8,5 +8,8 @@ A large number of clients are drawn to that direction. Retailers can grasp the l
 Forecasting sales gives us a basic notion of what to expect in the following years, and if any modifications are required, they are made in the retail sector.
 
 therefore that is the goal of the store
+
+
+
 gallery link:
 https://gallery.cortanaintelligence.com/Experiment/Walmart-Sales-Forecasting
